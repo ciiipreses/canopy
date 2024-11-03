@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ciiipreses.github.io/canopy
+
+# Sitemaps
+Sitemap: https://ciiipreses.github.io/canopy/sitemap.xml
