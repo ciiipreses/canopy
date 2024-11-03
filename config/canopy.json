@@ -1,0 +1,20 @@
+{
+  "collection": "https://ciiipreses.github.io/sanisidoro/iiif/index.json",
+  "devCollection": "https://example.org/iiif/collection-small-sample.json",
+  "featured": [
+    "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/manifest.json",
+    "https://ciiipreses.github.io/sanisidoro/iiif/4wz3hllcvpmkgrueniekj/manifest.json"
+  ],
+  "metadata": ["Illuminator(s)", "Title", ": Date created"],
+  "label": { "none": ["San Isidoro"] },
+  "summary": {
+    "none": ["The dispersed fragments of a choir book illuminated for San Isidoro del Campo."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
