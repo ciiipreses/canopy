@@ -1,9 +1,5 @@
 [
   {
-    "path": "/about",
-    "text": "About"
-  },
-  {
     "path": "/about/collaborators",
     "text": "Collaborators"
   }
