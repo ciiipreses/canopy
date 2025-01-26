@@ -4,7 +4,7 @@
     "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/manifest.json",
     "https://ciiipreses.github.io/sanisidoro/iiif/4wz3hllcvpmkgrueniekj/manifest.json"
   ],
-  "metadata": ["Illuminator(s)", "Title", ": Date created", "Initial type"],
+  "metadata": ["Illuminator(s)", "Title", "Date created", "Initial type"],
   "label": { "none": ["San Isidoro Chir Books"] },
   "summary": {
     "none": ["The dispersed fragments of a choir book illuminated for San Isidoro del Campo."]
