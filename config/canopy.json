@@ -1,7 +1,7 @@
 {
   "collection": "https://ciiipreses.github.io/sanisidoro/iiif/index.json",
   "featured": [
-    "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765/info.json",
+    "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/manifest.json"
   ],
   "metadata": ["Illuminator(s)", "Title", "Date created", "Initial type"],
   "label": { "none": ["Illuminated Choir Books of San Isidoro del Campo"] },
