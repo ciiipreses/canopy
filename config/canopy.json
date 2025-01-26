@@ -5,9 +5,9 @@
     "https://ciiipreses.github.io/sanisidoro/iiif/4wz3hllcvpmkgrueniekj/manifest.json"
   ],
   "metadata": ["Illuminator(s)", "Title", "Date created", "Initial type"],
-  "label": { "none": ["San Isidoro Chir Books"] },
+  "label": { "none": ["Illuminated Choir Books of San Isidoro del Campo"] },
   "summary": {
-    "none": ["The dispersed fragments of a choir book illuminated for San Isidoro del Campo."]
+    "none": ["A collaborative project to reimagine the makers, users, and patrons of the late 15th-century choir books illuminated for San Isidoro del Campo."]
   },
   "theme": {
     "defaultTheme": "light",
