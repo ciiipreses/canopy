@@ -1,12 +1,6 @@
 import * as AspectRatio from "@radix-ui/react-aspect-ratio";
 
-import {
-  Box,
-  Inset,
-  Link,
-  Card as RadixThemesCard,
-  Text,
-} from "@radix-ui/themes";
+import { Box, Inset, Card as RadixThemesCard, Text } from "@radix-ui/themes";
 import { Content, Placeholder, Wrapper } from "@components/Card/Card.styled";
 import { LazyMotion, MotionConfig, domAnimation, m } from "framer-motion";
 
